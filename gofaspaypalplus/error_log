@@ -1,0 +1,54 @@
+[25-Sep-2017 18:00:15 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Sep-2017 21:48:47 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[26-Sep-2017 16:47:53 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[26-Sep-2017 18:49:50 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[27-Sep-2017 17:32:24 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Sep-2017 13:01:51 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Sep-2017 13:46:50 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[30-Sep-2017 11:09:43 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[30-Sep-2017 12:48:16 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Oct-2017 17:34:04 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Oct-2017 19:14:35 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Oct-2017 01:59:35 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Oct-2017 18:15:17 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[04-Oct-2017 18:22:12 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[05-Oct-2017 18:00:40 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[05-Oct-2017 18:00:55 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[05-Oct-2017 18:00:55 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Oct-2017 22:26:04 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[05-Oct-2017 23:50:01 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[05-Oct-2017 23:55:38 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[06-Oct-2017 15:31:17 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[06-Oct-2017 15:31:33 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[06-Oct-2017 15:31:33 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Oct-2017 11:03:19 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[07-Oct-2017 11:03:36 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[07-Oct-2017 11:03:36 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Oct-2017 09:35:47 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[09-Oct-2017 16:09:55 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[09-Oct-2017 16:09:55 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Oct-2017 23:49:15 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[09-Oct-2017 23:49:38 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[09-Oct-2017 23:49:38 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Oct-2017 22:22:20 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[10-Oct-2017 22:22:39 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[10-Oct-2017 22:22:39 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[11-Oct-2017 15:38:21 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[11-Oct-2017 16:14:13 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[11-Oct-2017 20:50:58 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[11-Oct-2017 20:51:14 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[11-Oct-2017 20:51:14 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[12-Oct-2017 09:45:55 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[12-Oct-2017 09:54:37 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[12-Oct-2017 09:54:52 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[12-Oct-2017 09:54:53 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[12-Oct-2017 21:39:30 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[12-Oct-2017 21:39:46 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[12-Oct-2017 21:39:46 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Oct-2017 10:36:06 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[13-Oct-2017 10:36:22 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[13-Oct-2017 10:36:22 America/Sao_Paulo] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Oct-2017 16:53:56 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[13-Oct-2017 16:56:25 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[14-Oct-2017 22:59:23 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[14-Oct-2017 22:59:49 America/Sao_Paulo] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
